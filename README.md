@@ -6,6 +6,8 @@ Download the MySQL connector from https://dev.mysql.com/get/Downloads/Connector-
 
 Open the properties of the project from the dropdown list which appears on right-click on the project. Navigate to the libraries tab and click on the classpath. Select “Add External JARs…”. Select the file you downloaded. This step will differ on IDE you are using.
 
+Mysql Commands:
+
 create database attendance;
 
 use attendance;
